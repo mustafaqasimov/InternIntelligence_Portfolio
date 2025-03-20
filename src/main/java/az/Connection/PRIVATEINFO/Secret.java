@@ -2,8 +2,8 @@ package az.Connection.PRIVATEINFO;
 
 public class Secret {
     private static String URL = "jdbc:mysql://localhost:3306/portfolio";
-    private static String username1 = "root";
-    private static String password1= "24072007M";
+    private static String username1 = "username";
+    private static String password1= "password";
 
     public static String getURL() {
         return URL;
